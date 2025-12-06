@@ -1,4 +1,4 @@
-# Forest Cover Type Prediction
+# Best Buy Review Text Mining
 
 This project was completed by Michael Fillinger for CSI 5810 at Oakland University.
 
